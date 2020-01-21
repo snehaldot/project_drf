@@ -26,5 +26,7 @@
     
     api: 
         api's: http://127.0.0.1:8000/
+        
         image: http://127.0.0.1:8000/image/<int:id>
+        
         images: http://127.0.0.1:8000/image/
