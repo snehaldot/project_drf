@@ -2,9 +2,11 @@
 
         python3 -m venv env
 
+
 2) Install python packages:
 
         pip install -r requirement.txt
+        source env/bin/activate
 
 3) Make migrations:
 
