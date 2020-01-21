@@ -8,19 +8,11 @@
         source env/bin/activate
         pip install -r requirement.txt
 
-3) Make migrations:
-
-        python manage.py makemigrations
-
-4) Run Migrations:
-
-        python manage.py migrate
-
-5) Run development server:
+3) Run development server:
 
         python manage.py runserver
 
-6) URL's for project:
+4) URL's for project:
 
         admin: http://127.0.0.1:8000/admin/
     
