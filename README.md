@@ -5,8 +5,8 @@
 
 2) Install python packages:
 
-        pip install -r requirement.txt
         source env/bin/activate
+        pip install -r requirement.txt
 
 3) Make migrations:
 
