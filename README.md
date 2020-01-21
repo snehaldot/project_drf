@@ -21,7 +21,9 @@
 6) URL's for project:
 
     admin: http://127.0.0.1:8000/admin/
+    
     jwt: http://127.0.0.1:8000/api-token-auth/
+    
     api: 
         api's: http://127.0.0.1:8000/
         image: http://127.0.0.1:8000/image/<int:id>
